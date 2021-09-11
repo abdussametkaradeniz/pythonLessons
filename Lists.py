@@ -157,17 +157,16 @@ print(stringListe)
 
 #count max min sum metotlari
 
-liste = [-1,1,2,3,4,4,4,5,6,7,8,9,4]
-k = liste.count(2)
-print(k)
+#liste = [-1,1,2,3,4,4,4,5,6,7,8,9,4]
+#k = liste.count(2)
+#print(k)
 
-b = max (liste)
-print(b)
-kucuk = min(liste)
-print(kucuk)
+#b = max (liste)
+#print(b)
+#kucuk = min(liste)
+#print(kucuk)
 
-toplam = sum(liste)
-print(toplam)
-
+#toplam = sum(liste)
+#print(toplam)
 
 
