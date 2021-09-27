@@ -41,12 +41,8 @@ class Calisan():
 if __name__ == '__main__':
     c1 = Calisan("abdussamet")
     c2 = Calisan("veli")
-
     Calisan._personeliYazdir()
-    c2.isim = "deli"
-
-    
-    
+    c2.isim = "deli"  
     Calisan._personeliYazdir()
 
     
